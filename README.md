@@ -75,3 +75,4 @@ Issues/To-Do
 * Handling errant 'smart quotes' and parentheticals
 * Handling chapter titles
 * Optional write output text to file
+* Passing in multiple text files
