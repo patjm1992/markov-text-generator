@@ -2,7 +2,7 @@ import json
 import argparse
 
 '''
-	Description of file goes here
+	Turns a .txt file into a JSON file.
 '''
 
 def file_to_text(file_name):
@@ -69,6 +69,7 @@ def main():
 
 	with open(args.output, 'w') as fp:
 		json.dump(markov_dict, fp, indent=4)
+
 
 
 if __name__ == '__main__':

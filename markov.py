@@ -4,7 +4,7 @@ import argparse
 import timeit
 
 '''
-	Description of file goes here
+	Uses a JSON file to generate text.
 '''
 
 def generate_text(markov_chain, desired_len):
@@ -143,15 +143,10 @@ def handle_cmd_args():
 def main():
 	args = handle_cmd_args()
 
-	start_time = timeit.default_timer()
-
 	with open(args.json_file) as fp:
 		markov_chain = json.load(fp)
 
 	text = generate_text(markov_chain, int(args.word_count))
-
-
-
 	print(format(text))
 
 
