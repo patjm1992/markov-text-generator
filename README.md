@@ -29,7 +29,7 @@ Of course, _Infinite Jest_ has some really strange passages (Wardine be cry), so
 
 
 
-_Ulysses_ by James Joyce sounds the same:
+_Ulysses_ by James Joyce begins to sound more like _Finnegan's Wake_:
 >You there. Catch aholt. Caraway seed to carry away. Twig?
 
 >Poor story to tell you? As true as you’re there. O, commend me to fly in his free left hand under her nape, you’ll toss me all. O wonder! Coolsoft with ointments her hand crushed by old Tom Wall’s son. His first bow to the centrifugal departer? By inserting the.
